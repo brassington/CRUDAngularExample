@@ -8,6 +8,12 @@ namespace AngularJS_WebApi_EF.Controllers
 {
     public class HomeController : Controller
     {
+
+        ////../////////..///
+        /////..//////..////
+        //////..///..////
+        ///////../..////
+        /////////.//////
         //
         // GET: /Home/
 
